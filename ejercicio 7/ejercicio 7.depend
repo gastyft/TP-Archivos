@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1680161867 source:c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\archivos\libreria pila\pila.c
+	"pila.h"
+
+1680161867 c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\archivos\libreria pila\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1684672667 source:c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\archivos\ejercicio 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"../Libreria Pila/Pila.h"
+	<unistd.h>
+

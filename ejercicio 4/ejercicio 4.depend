@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1684659977 source:c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\archivos\carga_muestra_lib\carga_muestra.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"carga_muestra.h"
+
+1684658354 c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\archivos\carga_muestra_lib\carga_muestra.h
+
+1684662841 source:c:\users\gasty\onedrive\escritorio\programacion y laboratorio 1\archivos\ejercicio 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"../carga_muestra_lib/carga_muestra.h"
+
